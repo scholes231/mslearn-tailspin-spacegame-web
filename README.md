@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/peterivankovics/Space%20Game%20-%20web%20-Pipeline/_apis/build/status/scholes231.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/peterivankovics/Space%20Game%20-%20web%20-Pipeline/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
